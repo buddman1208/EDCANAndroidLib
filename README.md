@@ -1,2 +1,14 @@
 # EDCAN_Lib
 Android Library for EDCAN 
+
+Usage
+-----
+Compile (At Terminal) :
+  gradlew clean assemble
+
+Output Directory : Project Folder/app/build/outputs/aar/
+
+Contributers
+------------
+[LNTCS](http://github.com/lntcs/)
+[Junseok Oh](http://github.com/kotohana5706/)

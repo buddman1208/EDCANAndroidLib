@@ -4,6 +4,7 @@ Android Library for EDCAN
 Usage
 -----
 Compile (At Terminal) :
+    
     gradlew clean assemble
 
 Output Directory : Project Folder/app/build/outputs/aar/
